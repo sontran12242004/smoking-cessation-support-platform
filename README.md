@@ -8,4 +8,5 @@ A platform to support smoking cessation
 |SE184125|Dương Thanh Việt Anh|
 
 ## - UX/UI Of The Project
+### Landing Page
 
