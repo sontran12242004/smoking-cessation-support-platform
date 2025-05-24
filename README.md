@@ -10,3 +10,4 @@ A platform to support smoking cessation
 ## - UX/UI Of The Project
 ### Landing Page
 
+![Landing Page](Landing Page)
