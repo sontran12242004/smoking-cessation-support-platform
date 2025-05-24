@@ -9,3 +9,4 @@ A platform to support smoking cessation
 
 ## - UX/UI Of The Project
 ### Landing Page
+<img width="777" alt="Image" src="https://github.com/user-attachments/assets/c7fc429d-3ba3-44b2-a788-11ca2d5bb1e8" />
